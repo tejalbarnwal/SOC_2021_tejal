@@ -1,4 +1,4 @@
-# ros_guide
+# yolo_opencv
 description of some ros commands<br>
 https://docs.opencv.org/3.4/d6/d0f/group__dnn.html#ga3b34fe7a29494a6a4295c169a7d32422    : readnet<br>
 https://stackoverflow.com/questions/57706412/what-is-the-working-and-output-of-getlayernames-and-getunconnecteddoutlayers  <br>
