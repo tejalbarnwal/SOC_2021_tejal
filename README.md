@@ -9,5 +9,5 @@
 
 
 #### Doubts Compilation
-Link[https://docs.google.com/document/d/1G34XBUqa_HuWPvSbZJ0EKgc2Q5We5AzHsFpnodDDvWw/edit?usp=sharing]
+[Link](https://docs.google.com/document/d/1G34XBUqa_HuWPvSbZJ0EKgc2Q5We5AzHsFpnodDDvWw/edit?usp=sharing)
 
