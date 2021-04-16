@@ -4,6 +4,7 @@
 
 #### References being used
 - Deep Learning Specilization (coursera)
+  - [Summary Notes](https://github.com/mbadry1/DeepLearning.ai-Summary)
 - ML crash course by google
 - Intro to Tensor flow Udacity
 
