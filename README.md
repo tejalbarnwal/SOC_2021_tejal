@@ -6,7 +6,7 @@
 - Deep Learning Specilization (coursera)
   - [Summary Notes](https://github.com/mbadry1/DeepLearning.ai-Summary)
 - ML crash course by google
-- Intro to Tensor flow Udacity
+- [CS231n Notes](https://cs231n.github.io/neural-networks-2/#reg)
 
 
 #### Doubts Compilation
