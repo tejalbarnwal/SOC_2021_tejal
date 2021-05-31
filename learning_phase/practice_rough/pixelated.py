@@ -20,8 +20,10 @@ cv2.imshow("orginal_img",img)
 # parameters_defined
 h = img.shape[0]
 w = img.shape[1]
-filter_size = 8 # 2x2 filter
-stride = 8 # step size = 2
+
+def max_pooling(img_height , img_width , filters_size , stride_size):
+  filter_size = 8 # 2x2 filter
+  stride = 8 # step size = 2
 # size of output
 a = math.floor((h-filter_size)/stride) + 1
 b = math.floor((w-filter_size)/stride) + 1
@@ -43,6 +45,9 @@ for row in range(0,h,stride):
 
       output_img[a1,b1,i] = np.min(img[hori_start:hori_end , vert_start:vert_end , i ])
       # print(output_img)
+
+  return output_img
+
 
 output_img = cv2.resize(output_img, (360,360))
 cv2.imshow("output_img",output_img)
