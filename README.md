@@ -2,7 +2,15 @@
 
 
 
-#### References being used
+## Mini project - Emotion classfication
+[Link](https://github.com/tejalbarnwal/soc_mini_project)
+
+## Actual Project
+
+![](https://github.com/tejalbarnwal/SOC_2021_tejal/blob/master/mrcnn/download.png)
+
+
+#### Learning resources referred
 - Deep Learning Specilization (coursera)
   - [Summary Notes](https://github.com/mbadry1/DeepLearning.ai-Summary)
 - ML crash course by google
@@ -11,5 +19,3 @@
 
 #### Doubts Compilation
 [Link](https://docs.google.com/document/d/1G34XBUqa_HuWPvSbZJ0EKgc2Q5We5AzHsFpnodDDvWw/edit?usp=sharing)
-#### Mini project - Emotion classfication
-[Link](https://github.com/tejalbarnwal/soc_mini_project)
