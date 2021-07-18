@@ -8,7 +8,7 @@
 ## Actual Project
 
 ![](https://github.com/tejalbarnwal/SOC_2021_tejal/blob/master/mrcnn/download.png)
-
+[Video Output](https://github.com/tejalbarnwal/SOC_2021_tejal/blob/master/mrcnn/teju.avi)
 
 #### Learning resources referred
 - Deep Learning Specilization (coursera)
