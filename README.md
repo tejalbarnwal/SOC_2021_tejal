@@ -18,7 +18,6 @@ Available classes are:
 - Motobike
 - Traffic light
 - Traffic sign
-- 
 ### Model
 
 ### Results
