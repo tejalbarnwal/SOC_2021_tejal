@@ -5,8 +5,16 @@
 
 ## Actual Project - Visual Perception for Self-Driving Cars
 
+### Summary
+
+### Dataset
+
+### Model
+
+### Results
 ![](https://github.com/tejalbarnwal/SOC_2021_tejal/blob/master/mrcnn/download.png)
-[Video Output](https://github.com/tejalbarnwal/SOC_2021_tejal/blob/master/mrcnn/teju.avi)
+[Carla Simulation Video](https://drive.google.com/file/d/1lmiAUN94LuqhgVgQ7zb1dV2t2bEb-LI9/view?usp=sharing)
+[Here is the processed output of video feed from carla](https://github.com/tejalbarnwal/SOC_2021_tejal/blob/master/mrcnn/teju.avi)
 
 #### Learning resources referred
 - Deep Learning Specilization (coursera)
