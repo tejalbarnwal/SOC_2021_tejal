@@ -1,9 +1,9 @@
-# SOC 2021 - Visual Perception of self-driving cars
+# Season Of Code 2021
 
 ## Mini project - Emotion classfication
 [Link to Repo](https://github.com/tejalbarnwal/soc_mini_project) | [Link to Details](https://github.com/tejalbarnwal/soc_mini_project/blob/main/README.md) | [Link to video](https://github.com/tejalbarnwal/soc_mini_project/blob/main/model1.webm)
 
-## Actual Project
+## Actual Project - Visual Perception for Self-Driving Cars
 
 ![](https://github.com/tejalbarnwal/SOC_2021_tejal/blob/master/mrcnn/download.png)
 [Video Output](https://github.com/tejalbarnwal/SOC_2021_tejal/blob/master/mrcnn/teju.avi)
