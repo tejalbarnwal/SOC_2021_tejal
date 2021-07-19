@@ -17,6 +17,8 @@
 [Here is the processed output of video feed from carla](https://github.com/tejalbarnwal/SOC_2021_tejal/blob/master/mrcnn/teju.avi)
 
 ### References
+- [Kangaroo Custom Dataset Tutorial](https://youtu.be/Y53PtAVoyP4)
+- [Matterport Medium Tutorial](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
 
 #### Learning resources referred
 - Deep Learning Specilization (coursera)
