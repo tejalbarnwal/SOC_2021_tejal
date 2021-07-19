@@ -20,6 +20,8 @@ Available classes are:
 - Traffic sign
 ### Model
 
+[link to modified repo for matterport implementation](https://github.com/tejalbarnwal/Mask-RCNN-TF2)
+
 ### Results
 ![](https://github.com/tejalbarnwal/SOC_2021_tejal/blob/master/mrcnn/download.png)
 [Carla Simulation Video](https://drive.google.com/file/d/1lmiAUN94LuqhgVgQ7zb1dV2t2bEb-LI9/view?usp=sharing)
