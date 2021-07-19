@@ -1,7 +1,7 @@
 # SOC 2021 - Visual Perception of self-driving cars
 
 ## Mini project - Emotion classfication
-[Link to Repo](https://github.com/tejalbarnwal/soc_mini_project) | [Link to Details](https://github.com/tejalbarnwal/soc_mini_project/blob/main/README.md) | [Link to video] (https://github.com/tejalbarnwal/soc_mini_project/blob/main/model1.webm)
+[Link to Repo](https://github.com/tejalbarnwal/soc_mini_project) | [Link to Details](https://github.com/tejalbarnwal/soc_mini_project/blob/main/README.md) | [Link to video](https://github.com/tejalbarnwal/soc_mini_project/blob/main/model1.webm)
 
 ## Actual Project
 
