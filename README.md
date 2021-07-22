@@ -26,8 +26,8 @@ Available classes are:
 
 ### Results
 ![](https://github.com/tejalbarnwal/SOC_2021_tejal/blob/master/mrcnn/download.png)
-[Carla Simulation Video](https://drive.google.com/file/d/1lmiAUN94LuqhgVgQ7zb1dV2t2bEb-LI9/view?usp=sharing)
-[Here is the processed output of video feed from carla](https://github.com/tejalbarnwal/SOC_2021_tejal/blob/master/mrcnn/teju.avi)
+[Carla Simulation Video](https://drive.google.com/file/d/1lmiAUN94LuqhgVgQ7zb1dV2t2bEb-LI9/view?usp=sharing) | 
+[Here is the processed output of video feed from carla](https://drive.google.com/file/d/1SyFT2vlBmXZ5IZ6r0YcvUv8imSU2gtsq/view?usp=sharing)
 
 ### References
 - [Kangaroo Custom Dataset Tutorial](https://youtu.be/Y53PtAVoyP4)
